@@ -1,0 +1,7 @@
+port: "9001"
+maindb:
+  host: "localhost"
+  port: "5436"
+  user: "qwerty"
+  dbname: "todo_db"
+  sslmode: "disable"
